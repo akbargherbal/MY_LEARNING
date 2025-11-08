@@ -1,0 +1,108 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ============================================
+# JavaScript / Node.js
+# ============================================
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-store/
+
+# ============================================
+# Environments
+# ============================================
+.env
+.env.*
+.venv/
+venv/
+env/
+
+# ============================================
+# IDE / Editor Settings
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# ============================================
+# Testing / Coverage
+# ============================================
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# ============================================
+# Logs / Runtime Data
+# ============================================
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# ============================================
+# OS / System Files
+# ============================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============================================
+# TypeScript / Build Artifacts
+# ============================================
+*.tsbuildinfo
+out/
+dist/
+tmp/
+temp/
+
+# ============================================
+# WSL / Windows Interop Artifacts
+# ============================================
+# Files created when copying between Windows and WSL
+Zone.Identifier
+*.Zone.Identifier
+*Zone.Identifier*
+:Zone.Identifier
+*:Zone.Identifier:$DATA
+
+# ============================================
+# Project / Playground / Scratch
+# ============================================
+PLAYGROUND
+scratch/
+sandbox/
